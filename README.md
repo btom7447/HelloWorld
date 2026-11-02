@@ -6,7 +6,7 @@ This beginner-friendly application prints "Hello World!" and a personalized gree
 
 I created this software to practice the basic workflow of writing, running, documenting, and publishing a program.
 
-[Software Demo Video](VIDEO_URL_TO_BE_ADDED_AFTER_RECORDING)
+[Software Demo Video](https://youtu.be/zgoGlax_ZcM)
 
 [GitHub Repository](https://github.com/btom7447/HelloWorld)
 
@@ -26,7 +26,7 @@ The expected output is:
 
 ```text
 Hello World!
-Welcome, Ekemini Benjamin John Tom, to JavaScript with Node.js.
+Welcome, Benjamin John Tom, to JavaScript with Node.js.
 ```
 
 # Useful Websites
